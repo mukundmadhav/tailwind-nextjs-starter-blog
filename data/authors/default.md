@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
+name: Mukund Madhav
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Full Stack Software Engineer
+# company: Stanford University
+email: me@mukundmadhav.com
+twitter: https://twitter.com/mukundmadhav02
+linkedin: https://linkedin.com/in/mukundmadhav02
+github: https://github.com/mukundmadhav
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hey. <br/>
+This website is a work in progress but we can begin with some introduction.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+My name's <b>Mukund Madhav</b>. <br/>
+I currently work as a Full Stack Software Engineer 💻 <br/>  I work on React JS and Spring for the backend.<br/> I also have a blog if you'd want to check out: Mukund's medium blog. 📝<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I would love to get to know you. <br/> Please use the Twitter/Email links at the bottom of the page to reach out. 😃

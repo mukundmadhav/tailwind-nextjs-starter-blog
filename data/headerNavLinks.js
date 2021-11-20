@@ -1,8 +1,8 @@
 const headerNavLinks = [
-  { href: '/blog', title: 'Blog' },
-  { href: '/tags', title: 'Tags' },
+  // { href: '/links', title: 'Links' },
+  // { href: '/blog', title: 'Blog' },
   { href: '/projects', title: 'Projects' },
-  { href: '/about', title: 'About' },
+  { href: 'https://blog.mukundmadhav.com', title: 'Blog' },
 ]
 
 export default headerNavLinks
